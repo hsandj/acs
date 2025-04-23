@@ -1,2 +1,2 @@
 # acs
-pribadi
+genieacs pass 2025
